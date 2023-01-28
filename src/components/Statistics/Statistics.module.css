@@ -1,0 +1,8 @@
+.statVariant {
+    text-align: center;
+    font-size: 20px;
+}
+
+.statVariant:not(:last-child) {
+    margin-bottom: 10px;
+}
